@@ -1,0 +1,15 @@
+D:\Beetroot C#\Lesson 6\Array\Array\bin\Debug\net6.0\Array.exe
+D:\Beetroot C#\Lesson 6\Array\Array\bin\Debug\net6.0\Array.deps.json
+D:\Beetroot C#\Lesson 6\Array\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+D:\Beetroot C#\Lesson 6\Array\Array\bin\Debug\net6.0\Array.dll
+D:\Beetroot C#\Lesson 6\Array\Array\bin\Debug\net6.0\Array.pdb
+D:\Beetroot C#\Lesson 6\Array\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+D:\Beetroot C#\Lesson 6\Array\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Beetroot C#\Lesson 6\Array\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+D:\Beetroot C#\Lesson 6\Array\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+D:\Beetroot C#\Lesson 6\Array\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+D:\Beetroot C#\Lesson 6\Array\Array\obj\Debug\net6.0\Array.dll
+D:\Beetroot C#\Lesson 6\Array\Array\obj\Debug\net6.0\refint\Array.dll
+D:\Beetroot C#\Lesson 6\Array\Array\obj\Debug\net6.0\Array.pdb
+D:\Beetroot C#\Lesson 6\Array\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+D:\Beetroot C#\Lesson 6\Array\Array\obj\Debug\net6.0\ref\Array.dll
